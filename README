@@ -1,0 +1,19 @@
+= CATACLYSM CHARATER TRANSFER FORMULAR -- General information =
+
+Bitte beachte das dieses FORMULAR noch im AUFBAU ist!
+Wer mithelfen möchte kanns sich gerne per Github melden.
+
+INSTALL:
+1. Alle Files und Ordner auf webspace/Server hochladen.
+2. Datenbank erstellen und SQL File von SQL Ordner einbachten.
+3. check.php Datei öffnen und Datenbank informationen eingeben und abspeichern.
+4. Ordner Upload berechtigung 777 (chmod 777) geben.
+5. Forumal über index.php öffnen / für Gamemaster index.php?site=gm
+
+Notiz:
+Dieses Script ist frei und kann jederzeit verändert und weitergeben werden.
+Bitte schreibt aber auch unser copyright hinzu da wir uns auch arbeit gemacht haben.
+
+Kontakt:
+Bugs per Github melden
+
